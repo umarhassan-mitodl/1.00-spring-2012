@@ -46,7 +46,7 @@ SUPPORTING FILES
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 {{% resource_link "cd5ff090-89b5-f760-7af9-c62290f5c630" "Problem Set 8 (PDF)" %}}
 {{< tdclose >}}{{< tdopen >}}
-{{% resource_link "c92b9a77-9697-96b8-bbb5-975ac71f6d54" "Problem Set 8 images (ZIP)" %}} (This ZIP file conatins: 2 .png files.) (Train images courtesy of {{% resource_link "68205fe4-a6da-400d-8062-f536e293d45b" "Ken Houghton Rail Images" %}}.)
+{{% resource_link "c92b9a77-9697-96b8-bbb5-975ac71f6d54" "Problem Set 8 images (ZIP)" %}} (This ZIP file conatins: 2 .png files.) (Train images courtesy of [Ken Houghton Rail Images](http://www.trainweb.org/trains/).)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 {{% resource_link "f6593af0-5989-b78f-6433-cda33641c82e" "Problem Set 9 (PDF)" %}}
 {{< tdclose >}}{{< tdopen >}}

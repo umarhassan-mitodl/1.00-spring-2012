@@ -47,7 +47,7 @@ We’re teaching computation to students who are not computer science majors, bu
 
 Dr. Steve Lerman, Dr. Jud Harward and Dr. George Kocur wrote grant proposals to receive funding to develop the active learning materials and to provide loaner laptops about 10 years ago. We also rewrote all the course materials to switch to active learning and co-taught this subject every semester.
 
-While the educational literature suggested active learning at the time we chose to adopt it (see {{% resource_link "431a50de-500a-4aef-8375-c8aec0fc347f" "McCray, DeHaan & Shuck \[2003\]" %}}), examples of active learning were very limited. We needed to learn, by trial and error, how to create this interactive style of teaching. We expanded the length of lectures (active learning) from one hour to one and a half hours, and we reduced the amount of material covered somewhat. Student performance increased substantially.
+While the educational literature suggested active learning at the time we chose to adopt it (see [McCray, DeHaan & Shuck \[2003\]](http://www.nap.edu/openbook.php?record_id=10711&page=R1)), examples of active learning were very limited. We needed to learn, by trial and error, how to create this interactive style of teaching. We expanded the length of lectures (active learning) from one hour to one and a half hours, and we reduced the amount of material covered somewhat. Student performance increased substantially.
 
 ### Refining Teaching
 
@@ -59,16 +59,16 @@ All the materials for the semester are completed before the first class: lecture
 
 ### Prerequisites
 
-{{% resource_link "77da4f44-ddcd-4ec6-8e35-18490da3248c" "*18.01 Single Variable Calculus*" %}}
+[*18.01 Single Variable Calculus*](https://ocw-studio.odl.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010)
 
 ### Requirements Satisfied
 
 Undergraduate:
 
-- Required for {{% resource_link "04a970ba-fd3a-4e7d-b0a8-e8d9e9801db7" "15-1" %}}, {{% resource_link "c933021e-94b0-41ea-981b-a3aeccccfcb1" "16" %}}, {{% resource_link "4b43cffd-d970-4844-a29a-1ea0cbcd449e" "16-ENG" %}}
-- Restricted elective for {{% resource_link "fa540613-1a0f-4ca7-b32d-b7d1cf374d0a" "12" %}}
-- Optional for {{% resource_link "6d3950df-5f79-4002-b7e4-0953b9bf7e9c" "1" %}}, {{% resource_link "1dd3d717-4d3f-4b1d-86c8-c9acf0971a86" "3" %}}, {{% resource_link "d3677b36-c4ea-4092-b714-2132953b8d11" "3-C" %}}, {{% resource_link "b44f1b93-75cc-40ba-a4c3-0621b4e2b172" "10-ENG" %}}
-- {{% resource_link "d2247d55-e05c-48e1-8c62-1c82422dbdc3" "Restricted Electives in Science and Technology" %}}
+- Required for [15-1](http://catalog.mit.edu/degree-charts/management-course-15-1/), [16](http://catalog.mit.edu/degree-charts/aerospace-engineering-course-16/), [16-ENG](http://catalog.mit.edu/degree-charts/engineering-aeronautics-astronautics-course-16-eng/)
+- Restricted elective for [12](http://catalog.mit.edu/degree-charts/earth-atmospheric-planetary-sciences-course-12/)
+- Optional for [1](https://catalog.mit.edu/schools/engineering/civil-environmental-engineering/), [3](http://catalog.mit.edu/degree-charts/materials-science-engineering-course-3/), [3-C](http://catalog.mit.edu/degree-charts/archaeology-materials-course-3-c/), [10-ENG](http://catalog.mit.edu/degree-charts/engineering-chemical-engineering-course-10-eng/)
+- [Restricted Electives in Science and Technology](https://registrar.mit.edu/faculty-curriculum-support/faculty-curriculum-committees/committee-curricula/petitions/restricted)
 
 Graduate:
 
