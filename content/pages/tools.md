@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides instructions on how to install the software tools
   used in the course, including Eclipse, Java, and Phidgets.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Tools
 ocw_type: CourseSection

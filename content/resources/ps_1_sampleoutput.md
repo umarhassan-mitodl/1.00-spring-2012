@@ -4,6 +4,8 @@ description: This is a supporting file for problem set 1.
 file: /courses/1-00-introduction-to-computers-and-engineering-problem-solving-spring-2012/2545ccb691207769525b815cf277e641_PS_1_SampleOutput.txt
 file_size: 1775
 file_type: text/plain
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

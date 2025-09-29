@@ -3,6 +3,8 @@ content_type: page
 description: This section provides the two course quizzes, review materials and supporting
   files for the quizzes and final exam, and practice quizzes and exams from previous
   years.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Exams
 ocw_type: CourseSection

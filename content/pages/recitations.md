@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides the notes for each recitation session of the course
   along with supporting code files.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Recitations
 ocw_type: CourseSection

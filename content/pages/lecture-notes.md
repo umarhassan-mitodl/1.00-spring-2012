@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides the lecture notes for each session of the course
   along with supporting code files.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection

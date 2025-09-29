@@ -4,6 +4,8 @@ description: ''
 file: /courses/1-00-introduction-to-computers-and-engineering-problem-solving-spring-2012/1da3b74c4db84dbb266e6a3f7b74d144_1-00_classroom-2.jpg
 file_size: 60429
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''
