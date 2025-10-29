@@ -47,7 +47,7 @@ We’re teaching computation to students who are not computer science majors, bu
 
 Dr. Steve Lerman, Dr. Jud Harward and Dr. George Kocur wrote grant proposals to receive funding to develop the active learning materials and to provide loaner laptops about 10 years ago. We also rewrote all the course materials to switch to active learning and co-taught this subject every semester.
 
-While the educational literature suggested active learning at the time we chose to adopt it (see [McCray, DeHaan & Shuck \[2003\]](http://www.nap.edu/openbook.php?record_id=10711&page=R1)), examples of active learning were very limited. We needed to learn, by trial and error, how to create this interactive style of teaching. We expanded the length of lectures (active learning) from one hour to one and a half hours, and we reduced the amount of material covered somewhat. Student performance increased substantially.
+While the educational literature suggested active learning at the time we chose to adopt it (see {{% resource_link "49821e60-6967-4d95-9128-5fbb22b971ef" "McCray, DeHaan & Shuck [2003]" %}}), examples of active learning were very limited. We needed to learn, by trial and error, how to create this interactive style of teaching. We expanded the length of lectures (active learning) from one hour to one and a half hours, and we reduced the amount of material covered somewhat. Student performance increased substantially.
 
 ### Refining Teaching
 
@@ -59,16 +59,16 @@ All the materials for the semester are completed before the first class: lecture
 
 ### Prerequisites
 
-[*18.01 Single Variable Calculus*](https://ocw-studio.odl.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010)
+[*18.01 Single Variable Calculus*](/courses/18-01sc-single-variable-calculus-fall-2010)
 
 ### Requirements Satisfied
 
 Undergraduate:
 
-- Required for [15-1](http://catalog.mit.edu/degree-charts/management-course-15-1/), [16](http://catalog.mit.edu/degree-charts/aerospace-engineering-course-16/), [16-ENG](http://catalog.mit.edu/degree-charts/engineering-aeronautics-astronautics-course-16-eng/)
-- Restricted elective for [12](http://catalog.mit.edu/degree-charts/earth-atmospheric-planetary-sciences-course-12/)
-- Optional for [1](https://catalog.mit.edu/schools/engineering/civil-environmental-engineering/), [3](http://catalog.mit.edu/degree-charts/materials-science-engineering-course-3/), [3-C](http://catalog.mit.edu/degree-charts/archaeology-materials-course-3-c/), [10-ENG](http://catalog.mit.edu/degree-charts/engineering-chemical-engineering-course-10-eng/)
-- [Restricted Electives in Science and Technology](https://registrar.mit.edu/faculty-curriculum-support/faculty-curriculum-committees/committee-curricula/petitions/restricted)
+- Required for {{% resource_link "33695870-becf-4a6f-9152-b5d0e6ca745b" "15-1" %}}, {{% resource_link "ebcbb906-3b17-46e4-b106-27f920542c36" "16" %}}, {{% resource_link "e270995b-5005-4b10-b9e6-2583032e96ca" "16-ENG" %}}
+- Restricted elective for {{% resource_link "faec6bf2-9e4b-4610-bf43-3d7125cd0b4c" "12" %}}
+- Optional for {{% resource_link "0c023d41-35b5-4998-85b4-25680f11705d" "1" %}}, {{% resource_link "030aa963-2263-4381-8d9b-ad38a22103fc" "3" %}}, {{% resource_link "9bd78352-bc4d-44c5-91da-b1f5dc9a94a1" "3-C" %}}, {{% resource_link "0a5a6b20-c4f0-40db-ab2d-a2f851c471f7" "10-ENG" %}}
+- {{% resource_link "862fe77c-f40d-41fa-9e01-183cd6e264d3" "Restricted Electives in Science and Technology" %}}
 
 Graduate:
 
