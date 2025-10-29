@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides the schedule of readings by lecture session and
   topic, and information on recommended and optional textbooks.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -18,13 +16,13 @@ Textbooks
 
 ### Recommended
 
-**Text**: Horstmann, Cay. _Big Java_. 4th ed. Wiley, 2009. ISBN: 9780470509487. \[Preview with [Google Books](http://books.google.com/books?id=5R7WsLh4qMMC&pg=PAfrontcover#v=onepage)\] Look for discounted pricing, and you may be able to find it used. You may use the 3rd edition.
+**Text**: Horstmann, Cay. _Big Java_. 4th ed. Wiley, 2009. ISBN: 9780470509487. \[Preview with {{% resource_link "c0b1d13e-e81e-4e00-bc7b-15ef12c330b0" "Google Books" %}}\] Look for discounted pricing, and you may be able to find it used. You may use the 3rd edition.
 
 ### Optional
 
-**NR**: Press, William, Saul Teukolsky, et al. _Numerical Recipes in C: The Art of Scientific Computing_. Cambridge University Press, 1992. ISBN: 9780521437202. \[Preview with [Google Books](http://books.google.com/books?id=4t-sybVuoqoC&pg=PAfrontcover#v=onepage)\]
+**NR**: Press, William, Saul Teukolsky, et al. _Numerical Recipes in C: The Art of Scientific Computing_. Cambridge University Press, 1992. ISBN: 9780521437202. \[Preview with {{% resource_link "abd06e92-da3e-4dbe-ace0-aecd8b55ecbb" "Google Books" %}}\]
 
-[**Phidgets documentation**](http://www.phidgets.com/docs/Language_-_Java)
+{{% resource_link "b5b5039c-4b29-419c-b8f0-0461f78bbd04" "**Phidgets documentation**" %}}
 
 The following table lists readings from the required and optional texts.
 
